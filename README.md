@@ -3,4 +3,4 @@ In the testcase.zip file you can find the map of a city where #s are obstacles, 
 
 I used BFS(Breadth-first search), IDS(Iterative deepening depth-first search), A Star with Manhattan heuristic function, and A Star with the number of remaining patients heuristic function. 
 
-Also I  implement an improvement to the algorithm by adding states with priority at first. The codes have -priority suffix.
+Also, I implemented an improvement to the algorithm by adding states with priority at first. The codes have -priority suffix.
